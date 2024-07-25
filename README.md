@@ -63,9 +63,3 @@ Contributions are welcome! If you have any ideas or improvements, please open an
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Your Name - [your-email@example.com](mailto:your-email@example.com)
-
-Project Link: [https://github.com/your-username/your-repository-name](https://github.com/your-username/your-repository-name)
-
